@@ -1,5 +1,5 @@
  
-const Sequelize = require ('Sequelize');
+const Sequelize = require ('sequelize');
 const readline = require('readline');
 const {log, biglog, errorlog, colorize} = require('./out');
 const cmds = require('./cmds');
